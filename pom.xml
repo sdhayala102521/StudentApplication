@@ -84,5 +84,10 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<repositories>
+	  <repository>
+		<id>central</id>
+		<url>https://itbox-nexus-ext.fr.world.socgen/nexus-ext/content/groups/ext-thirdparty-maven2-group-releases/</url>
+	  </repository>
+	</repositories>
 </project>

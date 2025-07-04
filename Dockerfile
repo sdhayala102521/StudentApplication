@@ -1,5 +1,5 @@
 # Use a Java runtime as base image
-FROM java:21
+FROM eclipse-temurin:21-jdk
 EXPOSE 8080
 VOLUME /tmp
 ARG JAR_FILE=target/*.jar
