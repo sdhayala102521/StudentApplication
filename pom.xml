@@ -88,5 +88,9 @@
 		<id>central</id>
 		<url>https://itbox-nexus-ext.fr.world.socgen/nexus-ext/content/groups/ext-thirdparty-maven2-group-releases/</url>
 	  </repository>
+		<repository>
+			<id>central</id>
+			<url>https://repo.maven.apache.org/maven2</url>
+		</repository>
 	</repositories>
 </project>
